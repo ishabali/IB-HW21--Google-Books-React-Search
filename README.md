@@ -171,3 +171,18 @@ Please see Heroku’s Account Verification Information for more details.
 One More Thing
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 Good Luck!
+--------------------------------------------------------
+
+## Link to Deployed App
+[Link to deployed app](https://nw-hw21--google-books-react-se.herokuapp.com/) 
+(Click to open app)
+
+## GitHub Repo:
+https://github.com/ishabali/IB-HW21--Google-Books-React-Search   
+
+
+
+## Screenshot
+![Example1 png](./public/assets/image/2020-08-24
+![Example2 png](./public/assets/image/2020-08-24 (1))
+![Example3 png](./public/assets/image/2020-08-24 (2))
