@@ -183,6 +183,6 @@ https://github.com/ishabali/IB-HW21--Google-Books-React-Search
 
 
 ## Screenshot
-![Example1 png](./public/assets/image/2020-08-24
-![Example2 png](./public/assets/image/2020-08-24 (1))
-![Example3 png](./public/assets/image/2020-08-24 (2))
+![Example1 png](./public/assets/image/2020-08-24.png
+![Example2 png](./public/assets/image/2020-08-24.png (1))
+![Example3 png](./public/assets/image/2020-08-24.png (2))
