@@ -1,5 +1,5 @@
 {
-  "name": "mern",
+  "name": "ib-hw21-google-books-react-search",
   "version": "1.0.0",
   "description": "react based google book search",
   "main": "server.js",
@@ -13,7 +13,6 @@
     "build": "cd client && npm run build",
     "heroku-postbuild": "npm run build"
   },
-  "author": "Lily Simmons",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^4.1.0",
@@ -32,13 +31,5 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "^2.1.8",
     "react-toastify": "^5.0.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lilysimmons/google-books-search"
-  },
-  "bugs": {
-    "url": "https://github.com/lilysimmons/google-books-search/issues"
-  },
-  "homepage": "https://github.com/lilysimmons/google-books-search#readme"
+  }
 }
